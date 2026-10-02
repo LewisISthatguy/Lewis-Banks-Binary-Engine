@@ -14,3 +14,8 @@ Anyways, as a motto for everyone who downloads should follow:
 Feed the Wurld Wurdz Of Powaaaaaa
 
 - Lewis
+
+Alpha V1.0
+- GUI Made
+- Hex Reader
+- File Reading
